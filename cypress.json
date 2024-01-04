@@ -1,6 +1,8 @@
 
 {
-    "baseUrl": "https://github.com/andresmontcast7/cypress-scripts-repo"
+    "baseUrl": "https://github.com/andresmontcast7/cypress-scripts-repo",
+    "integrationFolder": "common"
+
 
   }
   
